@@ -1,5 +1,3 @@
-# LogGenerator
+# LogGenerator [![Build Status](https://travis-ci.org/danmgs/LogGenerator.svg?branch=master)](https://travis-ci.org/danmgs/LogGenerator)
 
-NGUYEN Daniel
-February 26th 2017
 A Console Application to generate random logs to play with Elastic Stack.
