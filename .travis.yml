@@ -2,4 +2,4 @@ language: csharp
 solution: LogGenerator.sln
 
 notifications:
-- email: false
+    - email: false
